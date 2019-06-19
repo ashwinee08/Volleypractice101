@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="randomSite">Random Site</string>
+    <string name="go">go</string>
+    <string name="facebook">Facebook</string>
+    <string name="loading">Loading....</string>
+    <string name="click_to_get_reponse">click to get reponse</string>
+</resources>
